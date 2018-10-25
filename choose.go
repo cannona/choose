@@ -1,7 +1,7 @@
 // Copyright 2018, Aaron Cannon under the BSD license.
 // See the license file for details.
 
-// package choose implements the N choose K formula, or the binomial coefficient
+// Package choose implements the N choose K formula, or the binomial coefficient
 // formula. See https://en.wikipedia.org/wiki/Binomial_coefficient for more.
 package choose
 
